@@ -1,4 +1,4 @@
-
+// Author - Ishaan Dwivedi
 interface Duck{
     public abstract void swim();
     public abstract void speak(String sound);
